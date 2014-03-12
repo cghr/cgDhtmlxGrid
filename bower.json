@@ -1,0 +1,31 @@
+{
+    "name": "cg-dhtmlx-grid",
+    "version": "0.0.1",
+    "main": "./release/scripts/cg-dhtmlx-grid.js",
+    "ignore": [
+        "**/.*",
+        "app",
+        "test",
+        ".bowerrc",
+        ".gitignore",
+        ".jshintignore",
+        ".jshintrc",
+        "bower.json",
+        "Gruntfile.js",
+        "karma.conf.js",
+        "karma-e2e.conf.js",
+        "package.json",
+        "README.md"
+    ],
+    "devDependencies": {
+        "angular": "1.2.6",
+        "json3": "~3.2.6",
+        "es5-shim": "~2.1.0",
+        "angular-mocks": "1.2.6",
+        "angular-scenario": "1.2.6",
+        "jquery": "2.1.0"
+    },
+    "dependencies": {
+        "lib-DhtmlxGrid": "0.0.1"
+    }
+}
